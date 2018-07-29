@@ -5,7 +5,7 @@ import (
 	"time"
 
 	glog "github.com/cihub/seelog"
-	"github.com/jsonkey/example/src/utils"
+	"github.com/jsonkey/abc/src/utils"
 )
 
 type PersonInfo struct {

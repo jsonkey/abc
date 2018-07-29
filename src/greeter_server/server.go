@@ -7,7 +7,7 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 
-	pb "github.com/jsonkey/example/src/proto/ex"
+	pb "github.com/jsonkey/abc/src/proto/ex"
 )
 
 const (
